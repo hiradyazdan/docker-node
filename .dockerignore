@@ -1,0 +1,7 @@
+.DS_Store
+.dockerignore
+*.iml
+Dockerfile
+circle.yml
+.git/
+.idea/
